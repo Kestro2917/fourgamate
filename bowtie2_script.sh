@@ -1,0 +1,1 @@
+bowtie2 -f --end-to-end --very-sensitive -D 20 -R 3 -N 0 -L 20 -i S,1,0.50 -x /home/bikram/statitics/Raw_data_20200801/Preprocessed/Bowtie2/NC_0455122/NC_0455122_covid19 -U all_human.fasta -S all_human.sam
